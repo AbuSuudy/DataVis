@@ -1,5 +1,5 @@
 /*
- *Handles Medical imaging data I have implemented MIP(Maximum intersity Projection), 
+ Handles Medical imaging data I have implemented MIP(Maximum intersity Projection), 
  Nearest Neighbour(for resizing image), Histogram Equalisation . Also a way 
  to view each slide in the data stucture in slices.
 */
